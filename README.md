@@ -1,5 +1,4 @@
 ### Hallo 
-Ini statistik GitHub saya saat ini, dan akan terus berkembang.<br>
 These are my current GitHub stats, and will continue to grow.<br>
 ### Github Statistic
 <p align="left">
